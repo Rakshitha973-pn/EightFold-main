@@ -1,0 +1,7 @@
+pandas
+pdfplumber
+phonenumbers
+pypdf
+python-dateutil
+pydantic
+reportlab

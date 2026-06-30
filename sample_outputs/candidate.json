@@ -1,0 +1,12 @@
+{
+    "full_name": "Aarav Sharma",
+    "primary_email": "aarav.sharma@gmail.com",
+    "phone": "+14155551234",
+    "skills": [
+        "Python",
+        "JavaScript",
+        "SQL",
+        "Docker"
+    ],
+    "confidence": 0.83
+}
